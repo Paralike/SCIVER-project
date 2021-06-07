@@ -2,7 +2,7 @@
 
 ## SCIVER: Verifying Scientific Claims with Evidence
 
-A feladatunk egy olyan rendszer létrehozása volt, ami tudományos állításokat vizsgál és meghatározza, hogy az állítást a cikkek közül valamelyik alátámasztja-e, avagy ellentmond-e neki.
+A feladatunk egy olyan rendszer létrehozása volt, ami tudományos állításokat vizsgál és meghatározza, hogy az állítást a cikkek közül valamelyik alátámasztja-e, avagy ellentmond-e neki. (https://dev.itk.ppke.hu/rivnyak.timea/frenetikus-sciver)
 1. A rendszer egy tudományos állítást vár bemenetként
 2. Minden releváns absztarktot azonosít egy nagy korpuszból
 3. Címkézi az állításokat az alapján, hogy a releváns absztrakt alátámasztja-e (SUPPORT) vagy ellentmond-e (CONTRADICT) neki
