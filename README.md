@@ -1,4 +1,4 @@
-# Frenetikus SCIVER
+# SCIVER
 
 ## SCIVER: Verifying Scientific Claims with Evidence
 
